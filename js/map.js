@@ -2,7 +2,7 @@
         // Styles a map in night mode.
         var map = new google.maps.Map(document.getElementById('map'), {
           center:  {lat: 53.5573, lng: 9.97165},
-          zoom: 18,
+          zoom: 19,
           
 		  
 		 styles: [{"featureType":"all","elementType":"all","stylers":[{"saturation":-100},{"gamma":0.7}]},
